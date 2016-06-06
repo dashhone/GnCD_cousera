@@ -1,12 +1,11 @@
-# Code Book
 
 
-## ID 
+## Data ID 
 
 *  subject : participant ID
 * activity: wearable activity value 
 
-## Data fields
+## Sample Data fields
 
  *  $ tBodygcceleration-mean()-X                          : num  0.308 0.168 0.343 0.31 0.17 ...
  *  $ tBodygcceleration-mean()-Y                          : num  -0.00617 -0.01862 -0.02722 -0.04363 -0.00886 ...
@@ -60,5 +59,12 @@
  * $ tGravitygcceleration-maximum()-X                    : num  0.87 0.87 0.874 0.876 0.876 ...
  * $ tGravitygcceleration-maximum()-Y                    : num  -0.249 -0.249 -0.241 -0.24 -0.24 ...
  * $ tGravitygcceleration-maximum()-Z                    : num  -0.153 -0.13 -0.127 -0.127 -0.132 ...
- *   $ tGravitygcceleration-minimum()-X                    : num  0.945 0.946 0.946 0.951 0.95 ...
+ * $ tGravitygcceleration-minimum()-X                    : num  0.945 0.946 0.946 0.951 0.95 ...
   
+## Project Process
+*  Loading Data
+*  Merging Data
+*  Measruement Extraction
+*  Appending Description 
+*  Variable label ajustment 
+*  Creating tidy data
