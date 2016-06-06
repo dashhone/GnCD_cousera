@@ -19,7 +19,7 @@
  * $ tBodygcceleration-arcoefficient,2               
  * $ tBodygcceleration-arcoefficient,3               
  * $ tBodygcceleration-arcoefficient,4               
- * $ tBodygcceleration-correlation()
+ * $ tBodygcceleration-correlation
  * $ tGravitygcceleration-mean
  * $ tGravitygcceleration-standarddeviation
  * $ tGravitygcceleration-meanabsolutedeviation
